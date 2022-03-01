@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-```
-![Visitor Count](https://profile-counter.glitch.me/jms3du/count.svg)
-```
-
